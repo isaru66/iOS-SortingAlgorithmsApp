@@ -62,7 +62,7 @@ platform :ios do
 
     gym(
       configuration: "Release",
-      workspace: "SortingAlgorithms.xcodeproj",
+      workspace: "SortingAlgorithms.xcworkspace",
       scheme: "SortingAlgorithms",
       export_method: "app-store",
       export_options: {
@@ -79,7 +79,7 @@ platform :ios do
       skip_submission: true,
       distribute_external: false,
       notify_external_testers: false,
-      ipa: "./SortingAlgorithm.ipa"
+      ipa: "./SortingAlgorithms.ipa"
     )
 
     delete_temp_keychain(keychain_name)
