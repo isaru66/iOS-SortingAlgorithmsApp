@@ -1,2 +1,6 @@
 fastlane/*.env
 *.log
+Pods/*
+*.ipa
+*.app.dSYM.zip
+SortingAlgorithms.xcworkspace/
