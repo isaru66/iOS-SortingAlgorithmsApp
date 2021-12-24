@@ -3,4 +3,3 @@ fastlane/*.env
 Pods/*
 *.ipa
 *.app.dSYM.zip
-SortingAlgorithms.xcworkspace/
