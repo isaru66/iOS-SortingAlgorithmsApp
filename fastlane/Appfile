@@ -1,8 +1,8 @@
 app_identifier("isaru66.Developer.SortingAlgorithms") # The bundle identifier of your app
 apple_id("isaru_66@hotmail.com") # Your Apple email address
 
-itc_team_id("118534860") # App Store Connect Team ID
-team_id("PFBFJV3F25") # Developer Portal Team ID
+itc_team_id("412084") # App Store Connect Team ID
+team_id("6N7CYPUC5R") # Developer Portal Team ID
 
 # For more information about the Appfile, see:
 #     https://docs.fastlane.tools/advanced/#appfile
